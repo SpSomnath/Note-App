@@ -1,0 +1,6 @@
+front-end : 
+    npm create vite@latest
+    cd smart-note 
+    npm install 
+    npm run dev
+    
